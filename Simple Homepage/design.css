@@ -1,0 +1,18 @@
+body{
+    background-color: lavender;
+}
+img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 40%;
+}
+h1{
+    color: darkred;
+}
+.simple1{
+    color:rebeccapurple;
+}
+.simple2{
+    color: darkcyan;
+}
